@@ -28,7 +28,7 @@ Bản demo này tập trung vào 4 nội dung chính:
 ## 🛠️ Hướng Dẫn Cài Đặt Cho Giảng Viên/Hội Đồng
 
 1. **Cấu hình môi trường:**
-   * Clone dự án: `git clone [Link_Repo_Của_Huy]`
+   * Clone dự án: `git clone [Link_Repo]`
    * Cài đặt thư viện: `flutter pub get`
 
 2. **Kết nối Firebase (6.1):**
